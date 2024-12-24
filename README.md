@@ -1,4 +1,4 @@
-# Magisk Module: Max Graphics and FPS Option Unlocker (Original made by JUANIMAN)
+# Magisk Module: Max Graphics and FPS Option Unlocker ( Original made by JUANIMAN )
 
 This Magisk module changes your mobile device model to an IQOO 13, allowing you to unlock 120fps in games like PUBG Mobile and Call of Duty Mobile.
 
@@ -36,6 +36,8 @@ If you encounter any issues, make sure that:
 
 ## Credits
 
+Full Credits goes to JUANIMAN
+
 https://github.com/JUANIMAN/fpsUnlocker
 
 Original Module Link
@@ -56,4 +58,4 @@ Originally made by JUANIMAN
 
 ---
 
-Updated by ARPIT
+Update device model to IQOO 13 by ARPIT
