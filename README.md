@@ -34,11 +34,20 @@ If you encounter any issues, make sure that:
 2. You've rebooted the device after installing the module
 3. The module is activated in Magisk Manager
 
+## Credits
+
+https://github.com/JUANIMAN/fpsUnlocker
+
+Original Module Link
+
 ## Contributions
 
 Contributions are welcome. If you have any improvements or fixes, feel free to open a pull request.
 
 ---
 
-Original made by JUANIMAN
-Updated with ❤️ by ARPIT
+Originally made by JUANIMAN
+
+---
+
+Updated by ARPIT
